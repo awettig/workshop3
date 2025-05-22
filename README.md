@@ -1,1 +1,1 @@
-# workshop3
+# workshop3, connecting GitHub and Jupyter notebook
